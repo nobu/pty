@@ -1,0 +1,6 @@
+#ifndef RUBY_PTY_INTERNAL_SIGNAL_H
+#define RUBY_PTY_INTERNAL_SIGNAL_H 1
+
+RUBY_EXTERN int rb_grantpt(int fd);
+
+#endif /* RUBY_PTY_INTERNAL_SIGNAL_H */
