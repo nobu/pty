@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors = ["Yukihiro Matsumoto"]
   s.email = ["matz@ruby-lang.org"]
   s.description = "Pseudo tty"
-  s.required_ruby_version = ">= 3.1.0"
+  s.required_ruby_version = ">= 2.6.0"
   s.homepage = "https://github.com/ruby/pty"
   s.metadata["source_code_url"] = s.homepage
   s.require_path = %[lib]
